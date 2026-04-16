@@ -204,7 +204,7 @@ README.md
 - Binary poster storage uses `blob` without format interpretation.
 - TTL in Cassandra is column-level for non-key columns.
 
-## Team
+## Team Members
 
 - Hady El Fadaly - [Github Profile](https://github.com/hadyelfadaly)
 - Hozayfa Ashraf - [Github Profile](https://github.com/HozayfaAshraf)
